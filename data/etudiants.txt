@@ -1,1 +1,6 @@
+1;benali;sara;GI;20;etu_6afb3566c5c0a9.30015252.png
+2;el amrani;youssef;IDIA;20;etu_6afb35718e58f4.36057679.png
+3;alaoui;imane;GE;17;etu_6afb35a6742346.60784695.png
+4;haddad;karim;GC;11.75;etu_6afb358ddbc534.70052155.png
+5;mansouri;salma;GI;7.5;etu_6afb3580e417b6.12831180.png
 
