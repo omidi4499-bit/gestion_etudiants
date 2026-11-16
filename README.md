@@ -2,7 +2,7 @@
 
 Application web développée en PHP natif permettant de gérer une liste d'étudiants (authentification, ajout, modification, suppression, recherche, tri et téléchargement de photo de profil) sans base de données SQL, en utilisant un fichier texte plat (`data/etudiants.txt`).
 
-* **Réalisé par :** [MIDI OTHMAN]
+* **Réalisé par :** MIDI OTHMAN
 * **Filière / Établissement :GI ENSA
 * **Technologies :** PHP 8, HTML5, CSS3, JavaScript
 
